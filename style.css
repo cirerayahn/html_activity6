@@ -1,0 +1,31 @@
+/* Autobiography - Cirera Yahni D. */
+/* Text colors only — no background colors */
+
+body {
+  color: black;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: navy;
+}
+
+a {
+  color: blue;
+}
+
+nav a {
+  color: dodgerblue;
+}
+
+.motto {
+  color: navy;
+}
+
+footer {
+  color: navy;
+}
